@@ -9,3 +9,12 @@
     "npm": "^6.4.1",
     "streaming-json-stringify": "^3.1.0"
   }
+  {
+  "devDependencies": {
+    "eslint": "^3.8.1"
+  },
+  "engines": {
+    "npm": "2.15.0"
+  },
+  "license": "MIT"
+}
